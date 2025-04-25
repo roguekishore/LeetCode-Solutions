@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [2383-add-two-integers](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## Simulation
 |  |
 | ------- |
