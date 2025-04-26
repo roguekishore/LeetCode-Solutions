@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0128-longest-consecutive-sequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
@@ -55,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
