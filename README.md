@@ -30,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
+## Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 <!---LeetCode Topics End-->
