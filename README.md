@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [2383-add-two-integers](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## Simulation
@@ -33,5 +34,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
