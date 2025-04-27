@@ -18,13 +18,12 @@ public:
         int minWindow = 0;
         int left = 1;
         int right = 1;
-
+        int tempSum = 0;
         while( left<=size ) {
-            int tempSum = 0;
-            cout<<"For index "<<left<<endl;
+            //cout<<"For index "<<left<<endl;
             while( right<=size ) {
                 tempSum = (prefix[right] - prefix[left-1]);
-                cout<<left<<"->"<<right<<" = "<<tempSum<<endl;
+                //cout<<left<<"->"<<right<<" = "<<tempSum<<endl;
                 if(tempSum >= target) {
                     if( minWindow == 0) {
                         minWindow = right - left + 1;
