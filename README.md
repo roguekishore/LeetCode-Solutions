@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
+| [0229-majority-element-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Array
 |  |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0229-majority-element-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
@@ -54,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0229-majority-element-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 ## Union Find
 |  |
 | ------- |
