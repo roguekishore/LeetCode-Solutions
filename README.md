@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0560-subarray-sum-equals-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## String
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0485-max-consecutive-ones](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
@@ -103,5 +105,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 <!---LeetCode Topics End-->
