@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [2032-largest-odd-number-in-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2383-add-two-integers) |
 ## Simulation
 |  |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [2032-largest-odd-number-in-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
 |  |
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+## Greedy
+|  |
+| ------- |
+| [2032-largest-odd-number-in-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
