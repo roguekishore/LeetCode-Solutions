@@ -7,15 +7,15 @@ public:
 
         bool isAnagram = true;
         map<char, int> map1;
-        map<char, int> map2;
         for(int i=0 ; i<size ; i++) {
             map1[s[i]]++;
-            map2[t[i]]++;
         }
 
         for(int i=0 ; i<size ; i++) {
-            if(map1[s[i]] != map2[s[i]])
+            if(map1.find(t[i]) == map1.end() || map1[t[i]] == 0) {
                 return false;
+            }
+            map1[t[i]]--;
         }
 
         return isAnagram;
