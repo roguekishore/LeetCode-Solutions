@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
+| [0151-reverse-words-in-a-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 ## Counting
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
