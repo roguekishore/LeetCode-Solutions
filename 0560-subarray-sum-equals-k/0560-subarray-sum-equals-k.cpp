@@ -26,10 +26,6 @@ public:
             map[prefix[i]]++;
         }
 
-        for(auto it:map) {
-            cout<<it.first<<"->"<<it.second<<endl;
-        }
-
 
         return count;
     }
