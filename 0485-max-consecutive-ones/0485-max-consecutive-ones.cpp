@@ -18,9 +18,7 @@ public:
             else {
                 maxCount = max(maxCount, count);
                 count = 0;
-            }
-
-            
+            }   
         }
         return max(count,maxCount);
     }
