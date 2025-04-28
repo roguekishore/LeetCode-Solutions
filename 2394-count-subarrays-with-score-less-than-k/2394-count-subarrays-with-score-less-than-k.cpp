@@ -7,7 +7,7 @@ public:
         int left = 0;
         long result = 0;
 
-        // brute force
+        // brute force solution
         // for(int left = 0 ; left<size ; left++) {
         //     result = 0;
 
