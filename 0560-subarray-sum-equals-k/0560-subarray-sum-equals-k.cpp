@@ -7,23 +7,17 @@ public:
         }
 
         int count = 0;
-        int  prefix[size];
-        prefix[0] = nums[0];
-
-        for(int i=1 ; i<size ; i++) {
-            prefix[i] = nums[i] + prefix[i-1];
-        }
-
-        map<int, int> map;
+        unordered_map<int, int> map;
+        map[0] = 1;
+        int sum = 0;
 
         for(int i=0 ; i<size ; i++) {
-            if(prefix[i] == k)
-                count++;
+            sum += nums[i];
 
-            if(map.find(prefix[i] - k) != map.end()) {
-                count += map[prefix[i] - k];
+            if(map.find(sum - k) != map.end()) {
+                count += map[sum - k];
             }
-            map[prefix[i]]++;
+            map[sum]++;
         }
 
 
