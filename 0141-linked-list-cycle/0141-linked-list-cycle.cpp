@@ -13,7 +13,7 @@ public:
         if(temp == NULL) {
             return false;
         }
-        map<ListNode*, int> map;
+        unordered_map<ListNode*, int> map;
         while(temp != NULL) {
             map[temp]++;
             if(map[temp] > 1) {
