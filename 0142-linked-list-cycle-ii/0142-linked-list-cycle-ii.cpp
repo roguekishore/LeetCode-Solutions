@@ -22,14 +22,14 @@ public:
         //     }
         // }
 
-        map<ListNode*, int> map;
-        ListNode* temp = head;
-        while( temp!=NULL ) {
-            if(map[temp] > 1) {
-                return temp;
+        unordered_set<ListNode*> map;
+
+        while( head!=NULL ) {
+            if(map.find(head) != map.end()) {
+                return head;
             }
-            map[temp]++;
-            temp = temp->next;
+            map.insert(head);
+            head = head->next;
         }
 
         return NULL;
