@@ -18,22 +18,18 @@ public:
         int size = 0;
         ListNode* last = head;
 
-        
-
         while(last->next != nullptr) {
             size++;
             last = last->next;
         }
         size++;
         k = k % size;
-        cout<<"Last = "<<last->val;
         int counter = size - k - 1;
         ListNode* current = head;
         while( counter > 0 ) {
             current = current -> next;
             counter--;
         }
-        cout<<endl<<current->val;
         last->next = head;
         head = current->next;
         current->next = NULL;
