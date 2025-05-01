@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0151-reverse-words-in-a-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0237-delete-node-in-a-linked-list](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0237-delete-node-in-a-linked-list) |
