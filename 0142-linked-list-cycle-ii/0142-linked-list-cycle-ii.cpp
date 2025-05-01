@@ -1,6 +1,7 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
+        // FLoyd - cycle
         // ListNode* slow = head;
         // ListNode* fast = head;
 
