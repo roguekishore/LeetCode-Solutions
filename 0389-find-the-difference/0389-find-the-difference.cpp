@@ -9,8 +9,6 @@ public:
             map[t[i]]--;
         }
 
-        auto it = map.rbegin();
-        cout<<it->first<<" "<<it->second;
         for(const auto it : map) {
             if(it.second == -1) {
                 return it.first;
