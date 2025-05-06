@@ -33,7 +33,8 @@ public:
         merge(nums, left, mid, right);
     }
     vector<int> sortArray(vector<int>& nums) {
-        mergeSort(nums, 0, nums.size()-1);
+        // mergeSort(nums, 0, nums.size()-1);
+        sort(nums.begin(), nums.end());
         return nums;
     }
 };
