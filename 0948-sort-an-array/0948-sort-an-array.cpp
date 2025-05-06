@@ -27,7 +27,7 @@ public:
         if(left >= right) {
             return;
         }
-        int mid = (left+right)/2;
+        int mid = left+ (right-left)/2;
         mergeSort(nums, left, mid, temp);
         mergeSort(nums, mid+1, right, temp);
         merge(nums, left, mid, right, temp);
