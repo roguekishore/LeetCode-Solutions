@@ -42,10 +42,9 @@ public:
         ListNode* right = middle->next;
         middle->next = NULL;
 
-        ListNode* leftHead = sortList(left);
-        ListNode* rightHead = sortList(right);
+        left = sortList(left);
+        right = sortList(right);
 
-        head = mergeSort(leftHead, rightHead);
-        return head;
+        return mergeSort(left, right);
     }
 };
