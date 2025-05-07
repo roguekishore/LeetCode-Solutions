@@ -1,20 +1,5 @@
 class Solution {
 public:
-    ListNode* middleNode(ListNode* h) {
-        if(h==nullptr || h->next==nullptr) {
-            return h;
-        }
-        ListNode* slow = h;
-        ListNode* fast = h->next;
-
-        while(fast && fast->next) {
-            slow = slow->next;
-            fast = fast->next->next;
-        }
-
-        return slow;
-    } 
-
     ListNode* mergeSort(ListNode* leftHead,ListNode* rightHead) {
         ListNode* dummy = new ListNode(0);
         ListNode* curr = dummy;
@@ -40,7 +25,15 @@ public:
             return head;
         }
 
-        ListNode* middle = middleNode(head);
+        ListNode* slow = head;
+        ListNode* fast = head->next;
+
+        while(fast && fast->next) {
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+
+        ListNode* middle = slow;
         ListNode* left = head;
         ListNode* right = middle->next;
         middle->next = NULL;
