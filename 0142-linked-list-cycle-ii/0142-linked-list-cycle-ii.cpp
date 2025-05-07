@@ -1,29 +1,41 @@
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {
-        // FLoyd - cycle
-        // ListNode* slow = head;
-        // ListNode* fast = head;
 
-        // while( fast!=NULL && fast->next!=NULL ) {
-        //     slow = slow->next;
-        //     fast = fast->next->next;
+        ListNode* slow = head;
+        ListNode* fast = head;
 
-        //     if(slow == fast) {
-        //         cout<<slow->val;
-        //         return slow->next;
-        //     }
-        // }
-
-        unordered_set<ListNode*> map;
-
-        while( head!=NULL ) {
-            if(map.find(head) != map.end()) {
-                return head;
+        while( fast && fast->next ) {
+            slow = slow->next;
+            fast = fast->next->next;
+            if(slow == fast) {
+                break;
             }
-            map.insert(head);
-            head = head->next;
         }
+        if(!fast || !fast->next) {
+            return NULL;
+        }
+        slow = head;
+        while(true) {
+            if(slow==fast) {
+                return slow;
+            }
+            slow = slow->next;
+            fast = fast->next;
+        }
+
+        return NULL;
+
+
+        // unordered_set<ListNode*> map;
+
+        // while( head!=NULL ) {
+        //     if(map.find(head) != map.end()) {
+        //         return head;
+        //     }
+        //     map.insert(head);
+        //     head = head->next;
+        // }
 
         return NULL;
     }
