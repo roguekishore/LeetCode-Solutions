@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2383-add-two-integers) |
+| [2491-smallest-even-multiple](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Simulation
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0258-add-digits) |
+| [2491-smallest-even-multiple](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 ## Hash Table
 |  |
 | ------- |
