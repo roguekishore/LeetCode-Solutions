@@ -21,9 +21,7 @@ public:
             count--;
             temp = temp->next;
         }
-        int t = nodeB->val;
-        nodeB->val = nodeA->val;
-        nodeA->val = t;
+        swap(nodeA->val, nodeB->val);
         return head;
     }
 };
