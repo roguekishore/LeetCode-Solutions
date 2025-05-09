@@ -1,22 +1,6 @@
-/*
-// Definition for a Node.
-class Node {
-public:
-    int val;
-    Node* next;
-    Node* random;
-    
-    Node(int _val) {
-        val = _val;
-        next = NULL;
-        random = NULL;
-    }
-};
-*/
-
 class Solution {
 public:
-    Node* copyRandomList(Node* head) {
+    Node* interWeave(Node* head) {
         Node* temp = head;
 
         while(temp) {
@@ -51,5 +35,29 @@ public:
             temp = temp->next;
         }
         return dummyNode->next;
+    }
+
+    Node* hMap(Node* head) {
+        unordered_map<Node*, Node*> map;
+        Node* curr = head;
+
+        while(curr) {
+            Node* newNode = new Node(curr->val);
+            map[curr] = newNode;
+            curr = curr->next;
+        }
+
+        curr = head;
+        while(curr) {
+            Node* copyNode = map[curr];
+            copyNode->next = map[curr->next];
+            copyNode->random = map[curr->random];
+            curr = curr->next;
+        }
+
+        return map[head];
+    }
+    Node* copyRandomList(Node* head) {
+        return hMap(head);
     }
 };
