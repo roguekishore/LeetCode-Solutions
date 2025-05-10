@@ -1,10 +1,8 @@
 class Solution {
 public:
     long long minSum(vector<int>& nums1, vector<int>& nums2) {
-        long sum = 0;
         int zeroOne = 0;
         int zeroTwo = 0;
-
         long sumOne = 0;
         long sumTwo = 0;
 
@@ -19,8 +17,6 @@ public:
                 zeroTwo++;
             }
         }
-        cout<<sumOne<<" "<<sumTwo;
-        cout<<endl<<zeroOne<<" "<<zeroTwo;
         if(zeroOne>0)
             sumOne += (zeroOne);
         if(zeroTwo>0)
