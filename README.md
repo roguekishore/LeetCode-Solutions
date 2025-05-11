@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0861-flipping-an-image](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0948-sort-an-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0948-sort-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1293-three-consecutive-odds](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1293-three-consecutive-odds) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
