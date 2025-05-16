@@ -268,4 +268,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
+## Database
+|  |
+| ------- |
+| [0182-duplicate-emails](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0182-duplicate-emails) |
 <!---LeetCode Topics End-->
