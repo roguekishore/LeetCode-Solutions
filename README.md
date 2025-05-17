@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0151-reverse-words-in-a-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0171-excel-sheet-column-number](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
