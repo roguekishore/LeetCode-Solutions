@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0389-find-the-difference) |
+| [0742-to-lower-case](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0742-to-lower-case) |
 | [0812-rotate-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [2032-largest-odd-number-in-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
