@@ -15,26 +15,13 @@ public:
         int right = s.size()-1;
 
         while(left<=right) {
-            if(isVowel(s[left]) && isVowel(s[right]) && (left<=right)) {
-                swap(s[left] , s[right]);
+            while(left<right && !isVowel(s[right])) {
+                right--;
             }
-            else if(isVowel(s[left]) && !isVowel(s[right])) {
-                while(right > left) {
-                    right--;
-                    if(isVowel(s[right])) {
-                        swap(s[left], s[right]);
-                        break;
-                    }
-                }
-            } else if(!isVowel(s[left]) && isVowel(s[right])) {
-                while(right > left) {
-                    left++;
-                    if(isVowel(s[left])) {
-                        swap(s[left], s[right]);
-                        break;
-                    }
-                }
+            while(left<right && !isVowel(s[left])) {
+                left++;
             }
+            swap(s[left],s[right]);
             left++;
             right--;
         }
