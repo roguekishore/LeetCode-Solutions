@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0171-excel-sheet-column-number](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0258-add-digits) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
@@ -235,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 ## Recursion
@@ -243,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0025-reverse-nodes-in-k-group) |
 | [0206-reverse-linked-list](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
