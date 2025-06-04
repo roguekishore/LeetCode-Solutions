@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/roguekishore/LeetCode-Solutions/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [2032-largest-odd-number-in-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2383-add-two-integers](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2383-add-two-integers) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2491-smallest-even-multiple](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2491-smallest-even-multiple) |
 | [3321-type-of-triangle](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3321-type-of-triangle) |
 ## Simulation
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2215-finding-3-digit-even-numbers) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
