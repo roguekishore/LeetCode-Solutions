@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [0861-flipping-an-image](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 | [0941-sort-array-by-parity](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0948-sort-an-array) |
@@ -210,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [0724-find-pivot-index](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0724-find-pivot-index) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
 ## Greedy
 |  |
