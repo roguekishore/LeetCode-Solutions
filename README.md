@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0300-longest-increasing-subsequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0868-push-dominoes](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0300-longest-increasing-subsequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [2394-count-subarrays-with-score-less-than-k](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2394-count-subarrays-with-score-less-than-k) |
