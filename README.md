@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2032-largest-odd-number-in-string) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3396-valid-word](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3396-valid-word) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Counting
 |  |
