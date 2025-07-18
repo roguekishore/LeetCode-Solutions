@@ -307,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
 ## Doubly-Linked List
 |  |
@@ -340,12 +341,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 <!---LeetCode Topics End-->
