@@ -1,9 +1,7 @@
 class Solution {
 public:
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) {
-        TreeNode* x = (p->val<q->val) ? p : q;
-        TreeNode* y = (p->val>q->val) ? p : q;
-        return findCommonAncestor(root,x,y);
+        return findCommonAncestor(root,p,q);
     }
 
     TreeNode* findCommonAncestor(TreeNode* root, TreeNode* x, TreeNode* y) {
