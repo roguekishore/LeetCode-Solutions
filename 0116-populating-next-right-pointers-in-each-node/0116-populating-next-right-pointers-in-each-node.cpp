@@ -28,7 +28,6 @@ public:
 
         while(!q.empty()) {
             int n = q.size();
-
             for(int i=0 ; i<n ; i++) {
                 Node* curr = q.front();
                 q.pop();
