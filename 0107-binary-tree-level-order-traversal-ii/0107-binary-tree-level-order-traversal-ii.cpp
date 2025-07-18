@@ -15,7 +15,6 @@ public:
             for(int i=0 ; i<n ; i++) {
                 TreeNode* curr = q.front();
                 q.pop();
-
                 if(curr->left) {
                     q.push(curr->left);
                 }
