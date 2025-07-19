@@ -6,7 +6,6 @@ public:
         if(!root) {
             return 0;
         }
-
         queue<pair<TreeNode*,long long>> q;
         q.push({root,1});
         while(!q.empty()) {
