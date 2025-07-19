@@ -1,7 +1,6 @@
 class Solution {
 public:
     int diameterOfBinaryTree(TreeNode* root) {
-        
         return helper(root);
     }
 
