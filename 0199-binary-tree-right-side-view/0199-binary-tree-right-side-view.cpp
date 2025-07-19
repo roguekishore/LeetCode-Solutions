@@ -21,11 +21,11 @@ public:
                 if(curr->right)
                     q.push(curr->right);
 
-                arr.push_back(curr->val);
-                cout<<curr->val<<" ";
+                if(i==n-1) {
+                    res.push_back(curr->val);
+                }
             }
-            cout<<endl;
-            res.push_back(arr[n-1]);
+            // res.push_back(arr[n-1]);
         }
         return res;
     }
