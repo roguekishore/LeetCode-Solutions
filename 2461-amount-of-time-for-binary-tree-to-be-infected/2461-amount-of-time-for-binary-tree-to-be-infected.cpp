@@ -7,7 +7,6 @@ public:
         childtoparent[root] = NULL;
         TreeNode* target = NULL;
         int k = 0;
-
         while(!q.empty()) {
             int n = q.size();
             for(int i=0 ; i<n ; i++) {
