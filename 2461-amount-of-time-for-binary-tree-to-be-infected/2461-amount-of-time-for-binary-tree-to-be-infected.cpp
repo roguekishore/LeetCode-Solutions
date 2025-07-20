@@ -31,7 +31,6 @@ public:
 
         while(!q.empty()) {
             int n = q.size();
-            k++;
             for(int i=0 ; i<n ; i++) {
                 TreeNode* curr = q.front();
                 q.pop();
@@ -46,8 +45,9 @@ public:
                 }
                 visited[curr] = true;
             }
+            if(!q.empty()) k++;
         }
 
-        return k-1;
+        return k;
     }
 };
