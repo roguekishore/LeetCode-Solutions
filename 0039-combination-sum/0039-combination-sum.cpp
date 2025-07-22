@@ -7,9 +7,11 @@ public:
             result.push_back(temp);
             return;
         }
+
         if(target<0) {
             return;
         }
+        
         for(int i=start ; i<n ; i++) {
             temp.push_back(candidates[i]);
             findCombinations(i, n, target-candidates[i], candidates);
