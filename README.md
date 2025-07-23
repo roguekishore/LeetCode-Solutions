@@ -418,5 +418,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0039-combination-sum) |
+| [0077-combinations](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
