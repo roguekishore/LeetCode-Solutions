@@ -4,7 +4,6 @@ public:
         vector<int> result;
         int total = pow(2, n);
         result.push_back(0);
-
         queue<int> q;
         q.push(1);
         bool left = true;
