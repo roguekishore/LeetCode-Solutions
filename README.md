@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0012-integer-to-roman) |
 | [0048-rotate-image](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0048-rotate-image) |
+| [0089-gray-code](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0171-excel-sheet-column-number](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0231-power-of-two) |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0231-power-of-two) |
 | [0389-find-the-difference](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0389-find-the-difference) |
 | [0861-flipping-an-image](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
@@ -420,4 +422,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0039-combination-sum) |
 | [0077-combinations](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0089-gray-code) |
 <!---LeetCode Topics End-->
