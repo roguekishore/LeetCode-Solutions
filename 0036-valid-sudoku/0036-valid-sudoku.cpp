@@ -9,9 +9,7 @@ public:
             for(int j=0 ; j<9 ; j++) {
                 if(board[i][j]=='.')
                     continue;
-
                 int num = board[i][j] - '0';
-
                 int boxIndex = (i/3)*3 + j/3;
                 if(row[i][num] || col[j][num] || box[boxIndex][num]) {
                     return false;
