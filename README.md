@@ -126,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0229-majority-element-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0485-max-consecutive-ones](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0540-single-element-in-a-sorted-array) |
@@ -206,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0861-flipping-an-image](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0861-flipping-an-image) |
 ## Dynamic Programming
 |  |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0152-maximum-product-subarray](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0198-house-robber) |
 | [0300-longest-increasing-subsequence](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0300-longest-increasing-subsequence) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0868-push-dominoes](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/roguekishore/LeetCode-Solutions/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 ## Binary Search
@@ -340,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0543-diameter-of-binary-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0766-flatten-a-multilevel-doubly-linked-list](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0766-flatten-a-multilevel-doubly-linked-list) |
@@ -431,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0199-binary-tree-right-side-view](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 | [0662-maximum-width-of-binary-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0662-maximum-width-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/roguekishore/LeetCode-Solutions/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -448,4 +453,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0077-combinations](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0089-gray-code) |
+## Graph
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Topological Sort
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
+## Memoization
+|  |
+| ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/roguekishore/LeetCode-Solutions/tree/master/0329-longest-increasing-path-in-a-matrix) |
 <!---LeetCode Topics End-->
