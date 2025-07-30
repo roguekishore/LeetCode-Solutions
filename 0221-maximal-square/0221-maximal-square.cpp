@@ -10,7 +10,6 @@ public:
             dp[i][0] = matrix[i][0] - '0';
             maxA = max(maxA, dp[i][0]);
         }
-
         for(int i=0 ; i<col ; i++) {
             dp[0][i] = matrix[0][i] - '0';
             maxA = max(maxA, dp[0][i]);
